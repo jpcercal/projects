@@ -6,8 +6,10 @@
 nbproject
 .project
 .settings
-composer.lock
-composer.phar
 _reports
 .lock
+.log
+.grunt/
 vendor/
+node_modules/
+dist/
