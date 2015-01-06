@@ -4,7 +4,7 @@ This repository contains all projects that i've worked on, showing the data in a
 
 See [http://jpcercal.github.io/projects/](http://jpcercal.github.io/projects/).
 
-![Projects I've worked on](https://raw.github.com/jpcercal/projects/feature/draft/screenshot.png)
+![Projects I've worked on](https://raw.github.com/jpcercal/projects/master/screenshot.png)
 
 **If you liked of this ideia/repository, give me a *star =)* and help me to share my portfolio.**
 
