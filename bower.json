@@ -1,0 +1,17 @@
+{
+  "name": "jpcercal-projects",
+  "version": "1.0.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.3",
+    "bootstrap": "3.3.4",
+    "html5shiv": "3.7.2",
+    "respond": "1.4.2"
+  }
+}
