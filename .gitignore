@@ -10,3 +10,4 @@ composer.lock
 composer.phar
 _reports
 .lock
+vendor/
