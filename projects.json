@@ -492,5 +492,24 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2011-08",
+        "type": "Website",
+        "name": "Joinville Square Garden",
+        "released": "August 2011",
+        "description": "Criação do website na plataforma Joomla.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Gabriel Pereira",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
