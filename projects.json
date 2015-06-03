@@ -4,7 +4,7 @@
         "type": "Website",
         "name": "Monitor Eleitoral",
         "released": "June 2014",
-        "description": "O Monitor Eleitoral é um painel aberto refletindo o que está sendo falado nas redes sociais sobre os principais candidatos à presidência da república. Com base na metodologia de análise da A2C e na ferramenta Livebuzz, ele expõe, em tempo real, as principais menções, polarizações, hashtags e indicadores de saudabilidade e buzz relacionados.",
+        "description": "Web Application developed in PHP to monitor the buzz of the political candidates through of the social network. Between the technologies used are: the framework Symfony (in the version 2.4), HTML, CSS, Twitter Bootstrap, Javascript with the jQuery Library, Doctrine ORM (in the version 2.2) and MySQL.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -63,7 +63,7 @@
         "type": "Website",
         "name": "Som na Caixa",
         "released": "March 2014",
-        "description": "Projeto em andamento.",
+        "description": "The project is running.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -77,7 +77,7 @@
         "type": "Website",
         "name": "Portal 3M Inovação",
         "released": "February 2014",
-        "description": "Reestruturar a presença online da 3M Inovação, construindo uma plataforma que efetivamente transforme a experiência do usuário cumprindo dois objetivos claros: qualificar a audiência da plataforma como um todo e agregar a imagem de inovação de maneira ainda mais substancial à marca.",
+        "description": "Website developed in PHP Symfony (in the version 2.4) with a expressive and very good team members.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -151,7 +151,7 @@
         "type": "Website",
         "name": "Quanta Fome",
         "released": "September 2013",
-        "description": "Sistema de Delivery (projeto em andamento).",
+        "description": "Service of Food Delivery (the project is running).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -165,7 +165,7 @@
         "type": "Website",
         "name": "Feirão do Imposto",
         "released": "September 2013",
-        "description": "Hotsite para as campanhas: \"O Segredo da Caixa\" e \"Não Mexa no meu Refri\".",
+        "description": "Hotsite to the campaigns \"O Segredo da Caixa\" and \"Não Mexa no meu Refri\".",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -184,7 +184,7 @@
         "type": "Website",
         "name": "Konsultare",
         "released": "August 2013",
-        "description": "Criação do Website sob a plataforma Wordpress 3.6. A Konsultare é uma Consultoria de Negócios, especializada em capacitar e transformar o ambiente empresarial.",
+        "description": "Website developed in Wordpress CMS (in the version 3.6).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -203,7 +203,7 @@
         "type": "Website",
         "name": "Habitare",
         "released": "September 2013",
-        "description": "Criação do Admin para o site, que foi construído utilizando Zend Framework 1.12.",
+        "description": "Web Admin Panel developed in PHP Zend Framework 1.12 to manage the content of the website.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -222,7 +222,7 @@
         "type": "Website",
         "name": "Nootícias",
         "released": "September 2013",
-        "description": "Um agregador de notícias criado sob a plataforma Wordpress 3.5 e reescrito sobre o framework Symfony 2.5.",
+        "description": "The news aggregator developed in PHP Wordpress CMS 3.5 and posteriorly it was rewritten in PHP Symfony 2.5.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -241,7 +241,7 @@
         "type": "Website",
         "name": "Landing Page 2Rios",
         "released": "August 2013",
-        "description": "Landing Page construída para a 2Rios.",
+        "description": "Developed the Landing Page of the brand 2Rios.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -260,7 +260,7 @@
         "type": "Website",
         "name": "Transgobbi",
         "released": "May 2013",
-        "description": "Criação do Website sob a plataforma Wordpress 3.6. Fundada em 1983 a Transgobbi, empresa familiar, iniciou suas atividades em Palmas, na região Sudoeste do Paraná atendendo o transporte de chapas de compensados. Em 2009 a empresa especializou-se no ramo siderúrgico, mais especificamente no transporte de bobinas de aço, e se aproximou de seus principais clientes. Em 2010 transferiu-se para a sede atual às margens da BR 280, em Araquari, Santa Catarina.",
+        "description": "Website developed in PHP Wordpress CMS (in the version 3.6).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -284,7 +284,7 @@
         "type": "Software",
         "name": "ZCPE",
         "released": "August 2013",
-        "description": "Sistema de Simulado para a ZCPE (Zend Certified PHP Engineer) em andamento.",
+        "description": "Web Application developed in PHP Symfony 2.4 framework to PHP developers that want the ZCPE Certification emitted by Zend and Pursue Vue (the project is running).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -303,7 +303,7 @@
         "type": "Website",
         "name": "SRJ",
         "released": "May 2013",
-        "description": "Criação do Website sob a plataforma Wordpress 3.5. A SRJ é uma clínica de reabilitação fundada em 1994, com instalações confortáveis, climatizada, com estacionamento amplo e gratuito e tem como foco principal oferecer um serviço de excelência.",
+        "description": "Website developed in PHP Wordpress CMS (in the version 3.5).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -322,7 +322,7 @@
         "type": "Website",
         "name": "Gomes Máquinas",
         "released": "February 2013",
-        "description": "Criação do Website sob a plataforma Wordpress 3.5. GOMES MÁQUINAS AGRÍCOLAS LTDA. é a primeira empresa do ramo a fabricar tratores autopropelidos com rodas em chapa de aço para semear e pulverizar lavouras de arroz irrigado no mercado brasileiro e vem inovando constantemente, trazendo aos seus clientes novidades em infra estrutura e conceitos inovadores na tecnologia agrícola, dando maior facilidade e comodidade aos usuários de seus equipamentos.",
+        "description": "Website developed in PHP Wordpress CMS (in the version 3.5).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -341,7 +341,7 @@
         "type": "Software",
         "name": "Code Ingressos",
         "released": "January 2013",
-        "description": "Sistema de Ticket's e Loja Virtual (projeto interrompido temporariamente).",
+        "description": "E-commerce and POS (Point of Sale) to sell tickets to shows, movies and more (temporarily this project is stopped).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -360,7 +360,7 @@
         "type": "Software",
         "name": "Passe2Triagem",
         "released": "August 2012",
-        "description": "Sistema Personalizado desktop desenvolvido sob demanda para controlar a entrada e saída de caminhões na Fecoagro.",
+        "description": "Desktop Software developed in Delphi to manage the inbound and outbound of trucks.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -377,85 +377,9 @@
     {
         "date": "2012-01",
         "type": "Software",
-        "name": "Softicket PDV",
+        "name": "Softicket PDV, Bar, Caixa, Sync and Admin",
         "released": "January 2012",
-        "description": "Sistema de PDV do Joinville Square Garden.",
-        "members": [
-            {
-                "name": "João Paulo Cercal",
-                "profile": "https://br.linkedin.com/in/jpcercal",
-                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
-            },
-            {
-                "name": "Gabriel Pereira",
-                "profile": "#",
-                "image": ""
-            }
-        ]
-    },
-    {
-        "date": "2012-01",
-        "type": "Software",
-        "name": "Softicket Bar",
-        "released": "January 2012",
-        "description": "Sistema de PDV do Joinville Square Garden.",
-        "members": [
-            {
-                "name": "João Paulo Cercal",
-                "profile": "https://br.linkedin.com/in/jpcercal",
-                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
-            },
-            {
-                "name": "Gabriel Pereira",
-                "profile": "#",
-                "image": ""
-            }
-        ]
-    },
-    {
-        "date": "2012-01",
-        "type": "Software",
-        "name": "Softicket Caixa",
-        "released": "January 2012",
-        "description": "Sistema de PDV do Joinville Square Garden.",
-        "members": [
-            {
-                "name": "João Paulo Cercal",
-                "profile": "https://br.linkedin.com/in/jpcercal",
-                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
-            },
-            {
-                "name": "Gabriel Pereira",
-                "profile": "#",
-                "image": ""
-            }
-        ]
-    },
-    {
-        "date": "2012-01",
-        "type": "Software",
-        "name": "Softicket Sync",
-        "released": "January 2012",
-        "description": "Sistema de PDV do Joinville Square Garden.",
-        "members": [
-            {
-                "name": "João Paulo Cercal",
-                "profile": "https://br.linkedin.com/in/jpcercal",
-                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
-            },
-            {
-                "name": "Gabriel Pereira",
-                "profile": "#",
-                "image": ""
-            }
-        ]
-    },
-    {
-        "date": "2012-01",
-        "type": "Software",
-        "name": "Softicket Admin",
-        "released": "January 2012",
-        "description": "Sistema de PDV do Joinville Square Garden.",
+        "description": "POS (Point of Sale) Software of the brand Joinville Square Garden.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -474,7 +398,7 @@
         "type": "Software",
         "name": "SCFG",
         "released": "November 2011",
-        "description": "Desenvolvimento de um Sistema Web para Controle de Projetos Financeiros nomeado como SCFG. Sendo que, o Sistema foi desenvolvido utilizando as seguintes tecnologias: PHP, CakePHP, HTML, CSS, Twitter Bootstrap, Javascript, jQuery, SQL e MySQL.",
+        "description": "Web Application developed in PHP to manage financial projects. Between the technologies used are: the framework CakePHP, HTML, CSS, Twitter Bootstrap, Javascript with the jQuery Library, SQL and MySQL.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -498,7 +422,7 @@
         "type": "Website",
         "name": "Joinville Square Garden",
         "released": "August 2011",
-        "description": "Criação do website na plataforma Joomla.",
+        "description": "Website developed in PHP Joomla CMS.",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -517,7 +441,7 @@
         "type": "Software",
         "name": "Softicket Web",
         "released": "April 2011",
-        "description": "Sistema de Gestão para a família de aplicativos de PDV Softicket.",
+        "description": "Web Management System developed in PHP Zend Framework 1.1x to applications of the Soficket POS (Point of Sale).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -536,7 +460,7 @@
         "type": "Software",
         "name": "Igrezuka",
         "released": "October 2010",
-        "description": "Sistemas Web Eclesiástico (TCC).",
+        "description": "Ecclesiastical Web Application developed in PHP (Term Paper).",
         "members": [
             {
                 "name": "João Paulo Cercal",
@@ -560,7 +484,7 @@
         "type": "Software",
         "name": "Deus Provedor",
         "released": "January 2010",
-        "description": "Sistema Web Eclesiástico.",
+        "description": "Ecclesiastical Web Application developed in PHP5 (OOP).",
         "members": [
             {
                 "name": "João Paulo Cercal",
