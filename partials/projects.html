@@ -1,6 +1,8 @@
 <ul class="timeline">
     <li ng-repeat="project in projects" ng-class="{'timeline-inverted': $odd}">
-        <div class="timeline-badge bgcolor-red hvr-pulse"><i class="glyphicon glyphicon-credit-card"></i></div>
+        <div ng-class="getTimelineColorClass($index)" class="timeline-badge hvr-pulse">
+            <span ng-class="{'glyphicon-credit-card': project.type == 'Website', 'glyphicon-th-large': project.type == 'Software'}" class="glyphicon"></span>
+        </div>
         <div class="timeline-panel hvr-grow">
             <div class="timeline-heading">
                 <span class="badge pull-right">{{ project.type }}</span>
@@ -15,7 +17,7 @@
                 <div class="clearfix"></div>
                 <div class="timeline-members">
                     <a href="{{ member.profile }}" class="pull-right" ng-repeat="member in project.members">
-                        <img src="{{ member.image }}" data-toggle="tooltip" title="{{ member.name }}" alt="{{ member.name }}" class="img-circle">
+                        <img ng-src="{{ member.image }}" data-toggle="tooltip" title="{{ member.name }}" alt="{{ member.name }}" class="img-circle">
                     </a>
                 </div>
                 <div class="clearfix"></div>
