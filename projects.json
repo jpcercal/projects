@@ -57,5 +57,19 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2014-04",
+        "type": "Website",
+        "name": "Som na Caixa",
+        "released": "March 2014",
+        "description": "Projeto em andamento.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            }
+        ]
     }
 ]
