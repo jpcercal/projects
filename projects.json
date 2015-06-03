@@ -354,5 +354,24 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2012-08",
+        "type": "Software",
+        "name": "Passe2Triagem",
+        "released": "August 2012",
+        "description": "Sistema Personalizado desktop desenvolvido sob demanda para controlar a entrada e saída de caminhões na Fecoagro.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Michel Deunizio",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
