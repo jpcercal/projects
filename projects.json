@@ -468,5 +468,29 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2011-11",
+        "type": "Software",
+        "name": "SCFG",
+        "released": "November 2011",
+        "description": "Desenvolvimento de um Sistema Web para Controle de Projetos Financeiros nomeado como SCFG. Sendo que, o Sistema foi desenvolvido utilizando as seguintes tecnologias: PHP, CakePHP, HTML, CSS, Twitter Bootstrap, Javascript, jQuery, SQL e MySQL.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Mehran Misaghi",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Luiz Camargo",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
