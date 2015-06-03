@@ -430,5 +430,24 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2012-01",
+        "type": "Software",
+        "name": "Softicket Sync",
+        "released": "January 2012",
+        "description": "Sistema de PDV do Joinville Square Garden.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Gabriel Pereira",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
