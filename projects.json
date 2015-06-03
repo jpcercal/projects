@@ -159,5 +159,24 @@
                 "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
             }
         ]
+    },
+    {
+        "date": "2013-09",
+        "type": "Website",
+        "name": "Feirão do Imposto",
+        "released": "September 2013",
+        "description": "Hotsite para as campanhas: \"O Segredo da Caixa\" e \"Não Mexa no meu Refri\".",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Rolf Scholz Neto",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
