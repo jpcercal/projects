@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Projects I've worked on</title>
+
+    <!-- Bootstrap -->
+    <link href="vendor/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HoverCSS -->
+    <link href="vendor/hover/css/hover-min.css" rel="stylesheet">
+
+    <!-- Custom Style -->
+    <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Roboto:700' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=PT+Mono' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="vendor/html5shiv/dist/html5shiv.min.js"></script>
+    <script src="vendor/respond/dest/respond.min.js"></script>
+    <![endif]-->
+</head>
+<body ng-app="projectsApp">
+    <div class="container-fluid container-colored">
+        <div class="row">
+            <div class="col-xs-2 bgcolor-red"></div>
+            <div class="col-xs-2 bgcolor-orange"></div>
+            <div class="col-xs-2 bgcolor-yellow"></div>
+            <div class="col-xs-2 bgcolor-green"></div>
+            <div class="col-xs-2 bgcolor-blue"></div>
+            <div class="col-xs-2 bgcolor-darkblue"></div>
+        </div>
+    </div>
+    <a href="https://github.com/jpcercal" target="_blank">
+        <img class="ribbon hidden-xs hidden-sm" src="assets/images/ribbon.png" alt="See my Profile on GitHub">
+    </a>
+    <div class="container">
+        <div class="page-header">
+            <h1 class="text-center" id="timeline">Projects I've worked on</h1>
+            <p class="text-center">See more about me in <a href="https://br.linkedin.com/in/jpcercal" rel="_blank">https://br.linkedin.com/in/jpcercal</a>, updated at Jun/2015.</p>
+        </div>
+        <div ng-view></div>
+    </div>
+
+    <div class="container-fluid container-colored">
+        <div class="row">
+            <div class="col-xs-2 bgcolor-red"></div>
+            <div class="col-xs-2 bgcolor-orange"></div>
+            <div class="col-xs-2 bgcolor-yellow"></div>
+            <div class="col-xs-2 bgcolor-green"></div>
+            <div class="col-xs-2 bgcolor-blue"></div>
+            <div class="col-xs-2 bgcolor-darkblue"></div>
+        </div>
+    </div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="vendor/jquery/dist/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="vendor/bootstrap/dist/js/bootstrap.min.js"></script>
+    <!-- Angular -->
+    <script src="vendor/angular/angular.min.js"></script>
+    <script src="vendor/angular-route/angular-route.min.js"></script>
+    <!-- Default script -->
+    <script src="assets/js/script.js"></script>
+    <script src="assets/js/app.js"></script>
+    <script src="assets/js/controllers.js"></script>
+</body>
+</html>
