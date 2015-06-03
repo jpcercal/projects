@@ -71,5 +71,79 @@
                 "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
             }
         ]
+    },
+    {
+        "date": "2014-02",
+        "type": "Website",
+        "name": "Portal 3M Inovação",
+        "released": "February 2014",
+        "description": "Reestruturar a presença online da 3M Inovação, construindo uma plataforma que efetivamente transforme a experiência do usuário cumprindo dois objetivos claros: qualificar a audiência da plataforma como um todo e agregar a imagem de inovação de maneira ainda mais substancial à marca.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Acidio Alan",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Nikolas Soares",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Adan Felipe Medeiros",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Gabriel Xavier",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Gustavo Henrique Conci",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Conrado Solano",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Thiago Augustini",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "João Menezes",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Bruno Duarte",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Cyro F. Klaus",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Filipi Maisotti de Simas",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Anderson de Andrade"
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
