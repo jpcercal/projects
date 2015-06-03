@@ -530,5 +530,29 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2010-10",
+        "type": "Software",
+        "name": "Igrezuka",
+        "released": "October 2010",
+        "description": "Sistemas Web Eclesiástico (TCC).",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Adan Felipe Medeiros",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Fernando Mariano",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
