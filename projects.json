@@ -1,15 +1,60 @@
 [
     {
-        "date": 0,
+        "date": "2014-06",
         "type": "Website",
         "name": "Monitor Eleitoral",
-        "released": "May, 2014",
+        "released": "June 2014",
         "description": "O Monitor Eleitoral é um painel aberto refletindo o que está sendo falado nas redes sociais sobre os principais candidatos à presidência da república. Com base na metodologia de análise da A2C e na ferramenta Livebuzz, ele expõe, em tempo real, as principais menções, polarizações, hashtags e indicadores de saudabilidade e buzz relacionados.",
         "members": [
             {
                 "name": "João Paulo Cercal",
                 "profile": "https://br.linkedin.com/in/jpcercal",
                 "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Rodrigo Sensever",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Lucas Danilo Masson",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Gustavo Henrique Conci",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Bruno Duarte",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Gabriel Xavier",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Charles A. Müller",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Cyro F. Klaus",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Acidio Alan",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "João Menezes"
+                "profile": "#",
+                "image": ""
             }
         ]
     }
