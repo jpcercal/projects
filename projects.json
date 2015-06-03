@@ -254,5 +254,29 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2013-05",
+        "type": "Website",
+        "name": "Transgobbi",
+        "released": "May 2013",
+        "description": "Criação do Website sob a plataforma Wordpress 3.6. Fundada em 1983 a Transgobbi, empresa familiar, iniciou suas atividades em Palmas, na região Sudoeste do Paraná atendendo o transporte de chapas de compensados. Em 2009 a empresa especializou-se no ramo siderúrgico, mais especificamente no transporte de bobinas de aço, e se aproximou de seus principais clientes. Em 2010 transferiu-se para a sede atual às margens da BR 280, em Araquari, Santa Catarina.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Davidson Santana",
+                "profile": "#",
+                "image": ""
+            },
+            {
+                "name": "Rolf Scholz Neto",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
