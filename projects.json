@@ -316,5 +316,24 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2013-02",
+        "type": "Website",
+        "name": "Gomes Máquinas",
+        "released": "February 2013",
+        "description": "Criação do Website sob a plataforma Wordpress 3.5. GOMES MÁQUINAS AGRÍCOLAS LTDA. é a primeira empresa do ramo a fabricar tratores autopropelidos com rodas em chapa de aço para semear e pulverizar lavouras de arroz irrigado no mercado brasileiro e vem inovando constantemente, trazendo aos seus clientes novidades em infra estrutura e conceitos inovadores na tecnologia agrícola, dando maior facilidade e comodidade aos usuários de seus equipamentos.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Elisete Santos Cercal",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
