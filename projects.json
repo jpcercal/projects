@@ -335,5 +335,24 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2013-01",
+        "type": "Software",
+        "name": "Code Ingressos",
+        "released": "January 2013",
+        "description": "Sistema de Ticket's e Loja Virtual (projeto interrompido temporariamente).",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Alessandro H. dos Santos",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
