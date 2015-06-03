@@ -178,5 +178,24 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "date": "2013-08",
+        "type": "Website",
+        "name": "Konsultare",
+        "released": "August 2013",
+        "description": "Criação do Website sob a plataforma Wordpress 3.6. A Konsultare é uma Consultoria de Negócios, especializada em capacitar e transformar o ambiente empresarial.",
+        "members": [
+            {
+                "name": "João Paulo Cercal",
+                "profile": "https://br.linkedin.com/in/jpcercal",
+                "image": "https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/4/000/141/240/0333395.jpg"
+            },
+            {
+                "name": "Rolf Scholz Neto",
+                "profile": "#",
+                "image": ""
+            }
+        ]
     }
 ]
