@@ -16,8 +16,16 @@
                 <h4 class="pull-right">Team Members</h4>
                 <div class="clearfix"></div>
                 <div class="timeline-members">
-                    <a href="{{ member.profile }}" class="pull-right" ng-repeat="member in project.members">
-                        <img ng-src="{{ member.image }}" data-toggle="tooltip" title="{{ member.name }}" alt="{{ member.name }}" class="img-circle">
+                    <a tooltip
+                       href="{{ member.profile }}" 
+                       target="_blank"  
+                       class="pull-right hvr-shrink"
+                       ng-repeat="member in project.members" 
+                       data-toggle="tooltip" 
+                       data-placement="bottom" 
+                       title="{{ member.name }}" 
+                    >
+                        <img ng-src="{{ member.image }}" alt="{{ member.name }}" class="img-circle">
                     </a>
                 </div>
                 <div class="clearfix"></div>
