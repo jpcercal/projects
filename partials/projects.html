@@ -17,15 +17,15 @@
                 <div class="clearfix"></div>
                 <div class="timeline-members">
                     <a tooltip
-                       href="{{ member.profile }}" 
-                       target="_blank"  
+                       href="{{ member.profile }}"
+                       target="_blank"
                        class="pull-right hvr-shrink"
-                       ng-repeat="member in project.members" 
-                       data-toggle="tooltip" 
-                       data-placement="bottom" 
-                       title="{{ member.name }}" 
+                       ng-repeat="member in project.members"
+                       data-toggle="tooltip"
+                       data-placement="bottom"
+                       title="{{ member.name }}"
                     >
-                        <img ng-src="{{ member.image }}" alt="{{ member.name }}" class="img-circle">
+                        <img ng-src="{{ member.image }}" alt="{{ member.name }}" class="img-circle" onerror="this.src='assets/images/photo.png'">
                     </a>
                 </div>
                 <div class="clearfix"></div>
